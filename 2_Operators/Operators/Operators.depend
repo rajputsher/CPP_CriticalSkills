@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1610478511 source:/home/shivsayali/Shivaram/onlineCourses/CriticalSkillsCpp/2_Operators/Operators/main.cpp
+	<iostream>
+
+1610480231 source:/home/shivsayali/Shivaram/onlineCourses/CriticalSkillsCpp/2_Operators/Operators/RelationalOperators.cpp
+	<iostream>
+
+1610479602 source:/home/shivsayali/Shivaram/onlineCourses/CriticalSkillsCpp/2_Operators/Operators/quiz.cpp
+	<iostream>
+
+1610480375 source:/home/shivsayali/Shivaram/onlineCourses/CriticalSkillsCpp/2_Operators/Operators/LogicalOperators.cpp
+	<iostream>
+
