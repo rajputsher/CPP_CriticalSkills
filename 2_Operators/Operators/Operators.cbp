@@ -32,8 +32,11 @@
 			<Add option="-Wall" />
 			<Add option="-fexceptions" />
 		</Compiler>
+		<Unit filename="DivisionOperator.cpp" />
+		<Unit filename="LogicalOperators.cpp" />
 		<Unit filename="RelationalOperators.cpp" />
 		<Unit filename="main.cpp" />
+		<Unit filename="quiz.cpp" />
 		<Extensions>
 			<lib_finder disable_auto="1" />
 		</Extensions>

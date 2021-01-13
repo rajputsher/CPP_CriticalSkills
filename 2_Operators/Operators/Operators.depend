@@ -5,9 +5,21 @@
 1610480231 source:/home/shivsayali/Shivaram/onlineCourses/CriticalSkillsCpp/2_Operators/Operators/RelationalOperators.cpp
 	<iostream>
 
-1610479602 source:/home/shivsayali/Shivaram/onlineCourses/CriticalSkillsCpp/2_Operators/Operators/quiz.cpp
+1610540572 source:/home/shivsayali/Shivaram/onlineCourses/CriticalSkillsCpp/2_Operators/Operators/quiz.cpp
 	<iostream>
 
 1610480375 source:/home/shivsayali/Shivaram/onlineCourses/CriticalSkillsCpp/2_Operators/Operators/LogicalOperators.cpp
+	<iostream>
+
+1610480563 source:/home/shivsayali/Shivaram/onlineCourses/CriticalSkillsCpp/2_Operators/Operators/DivisionOperator.cpp
+	<iostream>
+
+1610539081 source:/home/shivsayali/Shivaram/onlineCourses/CriticalSkillsCpp/2_Operators/Operators/AsgnmtOperators.cpp
+	<iostream>
+
+1610539311 source:/home/shivsayali/Shivaram/onlineCourses/CriticalSkillsCpp/2_Operators/Operators/AsgnmtLogicalOperators.cpp
+	<iostream>
+
+1610539973 source:/home/shivsayali/Shivaram/onlineCourses/CriticalSkillsCpp/2_Operators/Operators/AsgnmtDiv_Mod.cpp
 	<iostream>
 
