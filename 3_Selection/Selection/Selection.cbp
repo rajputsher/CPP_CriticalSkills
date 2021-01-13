@@ -2,12 +2,12 @@
 <CodeBlocks_project_file>
 	<FileVersion major="1" minor="6" />
 	<Project>
-		<Option title="Operators" />
+		<Option title="Selection" />
 		<Option pch_mode="2" />
 		<Option compiler="gcc" />
 		<Build>
 			<Target title="Debug">
-				<Option output="bin/Debug/Operators" prefix_auto="1" extension_auto="1" />
+				<Option output="bin/Debug/Selection" prefix_auto="1" extension_auto="1" />
 				<Option object_output="obj/Debug/" />
 				<Option type="1" />
 				<Option compiler="gcc" />
@@ -16,7 +16,7 @@
 				</Compiler>
 			</Target>
 			<Target title="Release">
-				<Option output="bin/Release/Operators" prefix_auto="1" extension_auto="1" />
+				<Option output="bin/Release/Selection" prefix_auto="1" extension_auto="1" />
 				<Option object_output="obj/Release/" />
 				<Option type="1" />
 				<Option compiler="gcc" />
@@ -32,15 +32,10 @@
 			<Add option="-Wall" />
 			<Add option="-fexceptions" />
 		</Compiler>
-		<Unit filename="AsgnmtDiv_Mod.cpp" />
-		<Unit filename="AsgnmtLogicalOperators.cpp" />
-		<Unit filename="AsgnmtOperators.cpp" />
-		<Unit filename="DivisionOperator.cpp" />
-		<Unit filename="LogicalOperators.cpp" />
-		<Unit filename="LogicalOperators.txt" />
-		<Unit filename="RelationalOperators.cpp" />
+		<Unit filename="AssignmentSelection.cpp" />
+		<Unit filename="Quiz.cpp" />
+		<Unit filename="Selection.cpp" />
 		<Unit filename="main.cpp" />
-		<Unit filename="quiz.cpp" />
 		<Extensions>
 			<lib_finder disable_auto="1" />
 		</Extensions>

@@ -151,7 +151,7 @@ int mainQ15() {
 	return 0;
 }
 
-int main() {
+int mainQ16() {
 	int x { 20 };
 
 	x < 100 || (x+= 50 > 10);

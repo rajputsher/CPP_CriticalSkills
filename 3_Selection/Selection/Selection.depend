@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1610543432 source:/home/shivsayali/Shivaram/onlineCourses/CriticalSkillsCpp/3_Selection/Selection/Selection.cpp
+	<iostream>
+
+1610542699 source:/home/shivsayali/Shivaram/onlineCourses/CriticalSkillsCpp/3_Selection/Selection/main.cpp
+
+1610544174 source:/home/shivsayali/Shivaram/onlineCourses/CriticalSkillsCpp/3_Selection/Selection/Quiz.cpp
+	<iostream>
+
