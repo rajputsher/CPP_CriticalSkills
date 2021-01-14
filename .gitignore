@@ -1,6 +1,7 @@
 # Ignore the bin and obj directories
 **/bin
 **/obj
+**/build
 
 # Ignore files 
 
